@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Program Latihan 4 - Sistem Informasi Statistik Kabupaten Sleman</title>
+</head>
+<body>
+    <center>
+        <!-- Header / Judul Utama -->
+        <h2>SISTEM INFORMASI STATISTIK<br>KABUPATEN SLEMAN</h2>
+        
+        <!-- Tabel Penduduk -->
+        <h3>Tabel Penduduk</h3>
+        
+        <table border="1" cellpadding="5" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>Kecamatan</th>
+                    <th>Luas Wilayah</th>
+                    <th>Jumlah Penduduk</th>
+                    <th>Kepadatan Penduduk</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Moyudan</td>
+                    <td>27.62</td>
+                    <td>31.497</td>
+                    <td>1.140.37</td>
+                </tr>
+                <tr>
+                    <td>Minggir</td>
+                    <td>27.27</td>
+                    <td>29.886</td>
+                    <td>1.095,93</td>
+                </tr>
+                <tr>
+                    <td>Seyegan</td>
+                    <td>26,63</td>
+                    <td>47.129</td>
+                    <td>1.769.77</td>
+                </tr>
+                <tr>
+                    <td>Godean</td>
+                    <td>26.84</td>
+                    <td>72.028</td>
+                    <td>2.683.61</td>
+                </tr>
+                <tr>
+                    <td>Gamping</td>
+                    <td>29.25</td>
+                    <td>108.675</td>
+                    <td>3.715,38</td>
+                </tr>
+                <tr>
+                    <td>Mlati</td>
+                    <td>28,52</td>
+                    <td>113.732</td>
+                    <td>3.987,80</td>
+                </tr>
+                <tr>
+                    <td>Depok</td>
+                    <td>35.55</td>
+                    <td>189.649</td>
+                    <td>5.334,71</td>
+                </tr>
+                <tr>
+                    <td>Berbah</td>
+                    <td>22.99</td>
+                    <td>58.806</td>
+                    <td>2.557.89</td>
+                </tr>
+                <tr>
+                    <td>Prambanan</td>
+                    <td>41.35</td>
+                    <td>48.565</td>
+                    <td>1.174.49</td>
+                </tr>
+                <tr>
+                    <td>Kalasan</td>
+                    <td>35,84</td>
+                    <td>86.654</td>
+                    <td>2.417.80</td>
+                </tr>
+                <tr>
+                    <td>Ngemplak</td>
+                    <td>35.71</td>
+                    <td>65.951</td>
+                    <td>1.846,85</td>
+                </tr>
+                <tr>
+                    <td>Ngaglik</td>
+                    <td>38.52</td>
+                    <td>120.368</td>
+                    <td>3.124.82</td>
+                </tr>
+                <tr>
+                    <td>Sleman</td>
+                    <td>31,32</td>
+                    <td>67.839</td>
+                    <td>2.166,00</td>
+                </tr>
+                <tr>
+                    <td>Tempel</td>
+                    <td>32.49</td>
+                    <td>50.723</td>
+                    <td>1.561,19</td>
+                </tr>
+                <tr>
+                    <td>Turi</td>
+                    <td>43.09</td>
+                    <td>34.361</td>
+                    <td>797.42</td>
+                </tr>
+                <tr>
+                    <td>Pakem</td>
+                    <td>43.84</td>
+                    <td>38.193</td>
+                    <td>871,19</td>
+                </tr>
+                <tr>
+                    <td>Cangkringan</td>
+                    <td>47.99</td>
+                    <td>29.456</td>
+                    <td>613,79</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <br><br>
+
+        <!-- Footer / Informasi Alamat -->
+        <p>
+            <b>Pemerintah Kabupaten Sleman</b><br>
+            Jl. Parasamya, Sleman, Daerah Istimewa Yogyakarta Kode Pos 55511 Telp (0274) 868405
+        </p>
+    </center>
+</body>
+</html>
